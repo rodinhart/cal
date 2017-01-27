@@ -1,7 +1,9 @@
 A partial JavaScript implementation of [unix cal](https://en.wikipedia.org/wiki/Cal_(Unix))
 
+Install using `npm -g install caljs`
+
 ```
-$ cal 1 2017
+$ caljs 1 2017
     January 2017
  S  M Tu  W Th  F  S
  1  2  3  4  5  6  7
@@ -12,7 +14,7 @@ $ cal 1 2017
 ```
 
 ```
-$ cal 2016
+$ caljs 2016
                               2016
 
       January               February               March
