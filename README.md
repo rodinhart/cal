@@ -1,4 +1,4 @@
-A partial JavaScript implementation of [unix cal][https://en.wikipedia.org/wiki/Cal_(Unix)]
+A partial JavaScript implementation of [unix cal](https://en.wikipedia.org/wiki/Cal_(Unix))
 
 ```
 $ cal 1 2017
