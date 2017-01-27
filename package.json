@@ -4,8 +4,12 @@
   "description": "unix cal",
   "license": "ISC",
   "main": "cal.js",
-  "name": "cal",
+  "name": "caljs",
   "preferGlobal": true,
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/rodinhart/cal"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
